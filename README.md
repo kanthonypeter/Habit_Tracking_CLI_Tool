@@ -18,9 +18,10 @@ Python 3.8 or higher
 To set up the Habit Tracker application, follow these steps:
 
 1. Clone the repository to your local machine:
+`git clone https://github.com/kanthonypeter/Habit_Tracking_CLI_Tool.git`
 
 2. Navigate to the project directory:
-Browse to the 'Habit_Tracking_CLI_Tool' directory 
+Browse to the `Habit_Tracking_CLI_Tool` directory 
 
 3. Ensure you have Python 3.8 or higher installed on your device. 
 This project was developed and tested extensively on Python 3.12.
@@ -35,7 +36,7 @@ Follow the Command Line prompts to interact with the tool.
 This project comes with python's unittest to ensure the functionality of its features. 
 To run the tests:
 1. Navigate to the project directory if you haven't already.
-Browse to the `habit-tracker` directory
+Browse to the `Habit_Tracking_CLI_Tool` directory
 
 2. The test is run using Python's inbuilt unittest module. Add the -v for verbose output
 `python -m unittest -v test_user_habit.py`
