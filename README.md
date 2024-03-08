@@ -20,7 +20,7 @@ To set up the Habit Tracker application, follow these steps:
 1. Clone the repository to your local machine:
 
 2. Navigate to the project directory:
-Browse to the 'habit-tracker' directory 
+Browse to the 'Habit_Tracking_CLI_Tool' directory 
 
 3. Ensure you have Python 3.8 or higher installed on your device. 
 This project was developed and tested extensively on Python 3.12.
